@@ -1,0 +1,103 @@
+[2021-01-16T13:08:23.460] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:08:23.462] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:09:54.129] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:09:54.132] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:11:36.512] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:11:36.516] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:15:19.738] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:15:19.742] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:16:03.263] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:16:03.265] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:16:35.852] [INFO] DoctorController - came here
+[2021-01-16T13:16:35.904] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:16:35.905] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:18:10.473] [INFO] DoctorController - came here
+[2021-01-16T13:18:10.496] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:18:10.497] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:27:35.840] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:27:35.844] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:29:29.805] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:29:29.806] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:29:33.042] [INFO] DoctorController - here we are
+[2021-01-16T13:31:13.371] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T13:31:13.373] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:02:34.756] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:02:34.773] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:03:25.521] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:03:25.523] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:04:17.405] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:04:17.407] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:07:52.361] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:07:52.364] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:18:28.006] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:18:28.012] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:19:01.366] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:19:01.370] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:19:48.535] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:19:48.537] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:20:16.484] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:20:16.487] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:21:30.422] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:21:30.424] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:21:38.176] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:21:38.182] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:23:20.140] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:23:20.142] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:23:25.701] [INFO] DoctorController - hoooo
+[2021-01-16T14:31:19.594] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:31:19.597] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:33:35.640] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:33:35.643] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:33:51.858] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:33:51.860] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:34:34.551] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:34:34.553] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:35:47.649] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:35:47.651] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-16T14:35:50.164] [INFO] DoctorController - huuuuvaaa
+[2021-01-16T21:21:28.427] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-18T14:58:47.535] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T14:58:47.538] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T14:59:12.420] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T14:59:12.422] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T14:59:59.538] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T14:59:59.540] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T15:02:50.154] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T15:02:50.157] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T15:08:14.448] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T15:08:14.450] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T15:33:03.657] [ERROR] DBConnection - querySrv ENOTFOUND _mongodb._tcp.seekmy.isicl.gcp.mongodb.net
+[2021-01-18T15:33:03.672] [ERROR] DBConnection - querySrv ENOTFOUND _mongodb._tcp.seekmy.isicl.gcp.mongodb.net
+[2021-01-18T15:33:03.673] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-18T15:35:05.419] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T15:35:05.423] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T15:36:33.341] [INFO] DoctorController - Inside the DoctorController method of findAll::user data fetched from DB
+[2021-01-18T15:37:57.223] [ERROR] DoctorController - Inside the DoctorController method of save::Data is not savedValidationError: consultingtime: Path `consultingtime` is required., rating: Path `rating` is required., longitude: Path `longitude` is required., latitude: Path `latitude` is required., location: Path `location` is required., imageUrl: Path `imageUrl` is required., availability: Path `availability` is required., specialization: Path `specialization` is required., qualification: Path `qualification` is required., name: Path `name` is required., docter_id: Path `docter_id` is required.
+[2021-01-18T15:52:57.244] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T15:52:57.250] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T15:54:22.640] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T15:54:22.643] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T15:55:06.600] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T15:55:06.605] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T15:55:19.281] [ERROR] DoctorController - Inside the DoctorController method of save::Data is not savedValidationError: name: Path `name` is required., docterid: Path `docterid` is required.
+[2021-01-18T15:58:18.159] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T15:58:18.180] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T15:58:35.479] [ERROR] DoctorController - Inside the DoctorController method of save::Data is not savedValidationError: name: Path `name` is required., docterid: Path `docterid` is required.
+[2021-01-18T16:01:37.441] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T16:01:37.446] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T16:02:39.860] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T16:02:39.865] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T16:04:08.136] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T16:04:08.140] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T16:05:33.605] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T16:05:33.609] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T16:06:06.338] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T16:06:06.366] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T16:06:24.981] [DEBUG] DoctorController - { docterid: '1', name: 'sredha' }
+[2021-01-18T16:06:25.138] [INFO] DoctorController - Inside the DoctorController method of save Data is saved
+[2021-01-18T16:07:02.644] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T16:07:02.648] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T16:07:30.523] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T16:07:30.528] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-18T16:07:36.429] [DEBUG] DoctorController - { docterid: '1', name: 'sredha' }
+[2021-01-18T16:07:36.683] [INFO] DoctorController - Inside the DoctorController method of save Data is saved

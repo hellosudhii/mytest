@@ -1,0 +1,7 @@
+[2021-01-16T21:21:28.427] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-18T15:33:03.657] [ERROR] DBConnection - querySrv ENOTFOUND _mongodb._tcp.seekmy.isicl.gcp.mongodb.net
+[2021-01-18T15:33:03.672] [ERROR] DBConnection - querySrv ENOTFOUND _mongodb._tcp.seekmy.isicl.gcp.mongodb.net
+[2021-01-18T15:33:03.673] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-18T15:37:57.223] [ERROR] DoctorController - Inside the DoctorController method of save::Data is not savedValidationError: consultingtime: Path `consultingtime` is required., rating: Path `rating` is required., longitude: Path `longitude` is required., latitude: Path `latitude` is required., location: Path `location` is required., imageUrl: Path `imageUrl` is required., availability: Path `availability` is required., specialization: Path `specialization` is required., qualification: Path `qualification` is required., name: Path `name` is required., docter_id: Path `docter_id` is required.
+[2021-01-18T15:55:19.281] [ERROR] DoctorController - Inside the DoctorController method of save::Data is not savedValidationError: name: Path `name` is required., docterid: Path `docterid` is required.
+[2021-01-18T15:58:35.479] [ERROR] DoctorController - Inside the DoctorController method of save::Data is not savedValidationError: name: Path `name` is required., docterid: Path `docterid` is required.
