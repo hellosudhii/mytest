@@ -3,9 +3,10 @@ import * as dotenv from "dotenv";
 import { getLogger, Logger } from "log4js";
 
 dotenv.config();
-// const connection_Url = `mongodb://mongg-0.mongo.db.svc.cluster.local:27017,mongg-1.mongo.db.svc.cluster.local:27017,mongg-2.mongo.db.svc.cluster.local:27017/seekmyDocter?`
-// const connection_Url: string = `mongodb://localhost:${process.env.DB_PORT}/${process.env.DB_NAME}`;
-const connection_Url: string = process.env.MONGOOSE_URI_ATLAS;
+const connection_Url = `mongodb://mongoose-mongo-0.mongoose-service.default.svc.cluster.local:27017,mongoose-mongo-1.mongoose-service.default.svc.cluster.local:27017,mongoose-mongo-2.mongoose-service.default.svc.cluster.local:27017/seekmyDocter?`;
+// const connection_Url: string = `mongodb://127.0.0.1:${process.env.DB_PORT}/${process.env.DB_NAME}`;
+// const connection_Url: string = process.env.MONGOOSE_URI_ATLAS;
+// const connection_Url: string = `mongodb://127.0.0.1:8080/docter`;
 export class DBConnection {
   log: Logger = getLogger("DBConnection");
   public getConnection() {
@@ -51,3 +52,4 @@ export class DBConnection {
     });
   }
 }
+// MONGOOSE_URI_ATLAS = mongodb+srv://userseek:imgLkosJjOSTcbmf@sjp.7ucmi.mongodb.net/seekmydoctor?retryWrites=true&w=majority

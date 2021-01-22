@@ -101,3 +101,113 @@
 [2021-01-18T16:07:30.528] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
 [2021-01-18T16:07:36.429] [DEBUG] DoctorController - { docterid: '1', name: 'sredha' }
 [2021-01-18T16:07:36.683] [INFO] DoctorController - Inside the DoctorController method of save Data is saved
+[2021-01-20T15:13:38.883] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-20T15:13:38.895] [ERROR] DBConnection - Authentication failed.
+[2021-01-20T15:13:38.898] [ERROR] DBConnection - Authentication failed.
+[2021-01-20T15:13:58.492] [INFO] DoctorController - huuuuvaaa
+[2021-01-20T15:14:22.045] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-20T15:14:22.048] [ERROR] DBConnection - Authentication failed.
+[2021-01-20T15:14:22.049] [ERROR] DBConnection - Authentication failed.
+[2021-01-20T15:15:49.441] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:15:49.446] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:17:17.805] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:17:17.809] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:17:29.850] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:17:29.858] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:18:43.584] [INFO] DoctorController - huuuuvaaa
+[2021-01-20T15:18:51.600] [INFO] DoctorController - huuuuvaaa
+[2021-01-20T15:19:33.088] [DEBUG] DoctorController - { name: 'sudhi', age: '24' }
+[2021-01-20T15:19:33.409] [INFO] DoctorController - Inside the DoctorController method of save Data is saved
+[2021-01-20T15:20:38.270] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:20:38.273] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:20:41.319] [DEBUG] DoctorController - { name: 'jose', age: '24' }
+[2021-01-20T15:20:41.583] [INFO] DoctorController - Inside the DoctorController method of findAll::user data fetched from DB
+[2021-01-20T15:20:42.169] [INFO] DoctorController - Inside the DoctorController method of save Data is saved
+[2021-01-20T15:21:07.410] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:21:07.418] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:22:40.011] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:22:40.015] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:23:44.893] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:23:44.898] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:27:03.610] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:27:03.614] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:27:16.515] [INFO] DoctorController - Inside the DoctorController method of save Data is saved
+[2021-01-20T15:27:31.773] [INFO] DoctorController - Inside the DoctorController method of findAll::user data fetched from DB
+[2021-01-20T15:27:33.240] [INFO] DoctorController - Inside the DoctorController method of findAll::user data fetched from DB
+[2021-01-20T15:27:52.864] [INFO] DoctorController - Inside the DoctorController method of save Data is saved
+[2021-01-20T15:27:58.199] [INFO] DoctorController - Inside the DoctorController method of findAll::user data fetched from DB
+[2021-01-20T15:28:22.895] [ERROR] DoctorController - Inside the DoctorController method of save::ValidationError: age: Path `age` is required.
+[2021-01-20T15:29:37.518] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:29:37.521] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:30:21.550] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:30:21.555] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:30:22.060] [INFO] DoctorController - huuuuvaaa
+[2021-01-20T15:31:21.542] [INFO] DoctorController - Inside the DoctorController method of findAll::user data fetched from DB
+[2021-01-20T15:31:57.179] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:31:57.187] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:32:10.627] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:32:10.635] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:33:22.700] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:33:22.705] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:34:05.980] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:34:05.985] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:34:29.979] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:34:29.985] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:40:38.509] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:40:38.514] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:45:10.310] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:45:10.315] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:45:28.096] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:45:28.102] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:46:49.042] [INFO] DoctorController - Inside the DoctorController method of findAll::user data fetched from DB
+[2021-01-20T15:47:09.473] [INFO] DoctorController - Inside the DoctorController method of save Data is saved
+[2021-01-20T15:47:15.995] [INFO] DoctorController - Inside the DoctorController method of findAll::user data fetched from DB
+[2021-01-20T15:47:21.249] [INFO] DoctorController - Inside the DoctorController method of findAll::user data fetched from DB
+[2021-01-20T15:49:22.641] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:49:22.645] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:51:05.912] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:51:05.917] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:51:09.003] [INFO] DoctorController - Inside the DoctorController method of findAll::user data fetched from DB
+[2021-01-20T15:52:00.850] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:52:00.854] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:54:16.890] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T15:54:16.898] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T18:45:56.146] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-20T18:46:07.298] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T21:27:18.515] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-20T21:27:51.884] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T21:28:22.299] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-20T21:59:36.483] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T22:04:18.649] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-20T22:04:45.396] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-20T22:31:36.755] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-20T22:33:13.761] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-22T12:59:53.932] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-22T12:59:53.937] [INFO] DBConnection - Inside the getConnection -> Mongo db is connected
+[2021-01-22T13:00:26.099] [INFO] DoctorController - Inside the DoctorController method of save Data is saved
+[2021-01-22T13:01:04.074] [INFO] DoctorController - Thia running fine
+[2021-01-22T13:01:08.701] [INFO] DoctorController - Inside the DoctorController method of findAll::user data fetched from DB
+[2021-01-22T13:02:02.195] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-22T13:02:02.197] [ERROR] DBConnection - getaddrinfo EAI_AGAIN mongoose-mongo-0
+[2021-01-22T13:02:02.198] [ERROR] DBConnection - getaddrinfo EAI_AGAIN mongoose-mongo-0
+[2021-01-22T13:04:53.494] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-22T13:04:53.498] [ERROR] DBConnection - getaddrinfo ENOTFOUND mongoose-mongo-0.mongoose-service.default.svc.cluster.local
+[2021-01-22T13:04:53.498] [ERROR] DBConnection - getaddrinfo ENOTFOUND mongoose-mongo-0.mongoose-service.default.svc.cluster.local
+[2021-01-22T13:07:09.910] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-22T13:07:09.916] [ERROR] DBConnection - getaddrinfo EAI_AGAIN mongoose-mongo-0
+[2021-01-22T13:07:09.916] [ERROR] DBConnection - getaddrinfo EAI_AGAIN mongoose-mongo-0
+[2021-01-22T13:09:50.296] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-22T13:09:50.302] [ERROR] DBConnection - getaddrinfo EAI_AGAIN mongoose-mongo-0
+[2021-01-22T13:09:50.303] [ERROR] DBConnection - getaddrinfo EAI_AGAIN mongoose-mongo-0
+[2021-01-22T13:17:52.601] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-22T13:17:52.603] [ERROR] DBConnection - getaddrinfo EAI_AGAIN mongoose-mongo-0
+[2021-01-22T13:17:52.604] [ERROR] DBConnection - getaddrinfo EAI_AGAIN mongoose-mongo-0
+[2021-01-22T16:27:32.798] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-22T16:27:32.801] [ERROR] DBConnection - getaddrinfo EAI_AGAIN mongoose-mongo-0
+[2021-01-22T16:27:32.801] [ERROR] DBConnection - getaddrinfo EAI_AGAIN mongoose-mongo-0
+[2021-01-22T16:28:46.575] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-22T16:28:46.578] [ERROR] DBConnection - getaddrinfo EAI_AGAIN mongoose-mongo-0
+[2021-01-22T16:28:46.578] [ERROR] DBConnection - getaddrinfo EAI_AGAIN mongoose-mongo-0
+[2021-01-22T17:06:14.131] [ERROR] DBConnection - Inside the getConnection --> Mongoose connection is disconnected... 
+[2021-01-22T17:06:14.135] [ERROR] DBConnection - getaddrinfo ENOTFOUND mongoose-mongo-0.mongoose-service.default.svc.cluster.local
+[2021-01-22T17:06:14.135] [ERROR] DBConnection - getaddrinfo ENOTFOUND mongoose-mongo-0.mongoose-service.default.svc.cluster.local
